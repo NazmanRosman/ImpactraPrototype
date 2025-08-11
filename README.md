@@ -5,4 +5,4 @@
 - By combining event discovery, social features, and virtual rewards (e.g., points, leaderboards)
 
 ## Problem Statement
-In recent years, the rise of social media, increasing political polarization and economic pressures have contributed to a weakening sense of community among younger generations. This disconnection has led to heightened feelings of loneliness and isolation, both of which are major contributing factors to the growing mental health crisis. In response, there is a pressing need to create meaningful opportunities for youth to reconnect — not just socially, but through shared purpose and collective action.
+In recent years, the rise of social media, increasing political polarization, and increasing economic pressures have contributed to a weakening sense of community among younger generations. This disconnection has led to heightened feelings of loneliness and isolation, both of which are major contributing factors to the growing mental health crisis. In response, there is a pressing need to create meaningful opportunities for youth to reconnect — not just socially, but through shared purpose and collective action.
